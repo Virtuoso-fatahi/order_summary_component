@@ -21,8 +21,8 @@ This project is to build an Order code component and get it to look as close as 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: ([https://your-solution-url.com](https://www.frontendmentor.io/solutions/order-summary-component-using-flexbox-psuedo-selectors-4X-rcxeWT0))
+- Live Site URL: ([https://your-live-site-url.com](https://order-checkout-component.netlify.app/))
 
 ## My process
 
